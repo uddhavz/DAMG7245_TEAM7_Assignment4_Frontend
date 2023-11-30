@@ -1,0 +1,7 @@
+snowflake-connector-python==3.5.0
+snowflake-snowpark-python==1.10.0
+snowflake-sqlalchemy==1.5.1
+langchain
+langchain-experimental
+streamlit
+openai
